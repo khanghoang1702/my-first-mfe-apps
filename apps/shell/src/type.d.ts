@@ -1,1 +1,1 @@
-declare module 'home/HomeModule';
+declare module 'home/HomePageModule';
